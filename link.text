@@ -1,0 +1,12 @@
+
+https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
+
+
+° C
+
+`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=`;
+
+`https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=`;
